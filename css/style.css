@@ -1,8 +1,16 @@
-.box{
+.box, .box-nesting, .box2{
   padding: 20px;
   background-color: steelblue;
   color: white;
   text-align: center;
   margin: 1px;
+}
+
+.box-nesting{
+  background-color: darkgreen;
+}
+
+.box2{
+  height: 60px;
 }
 

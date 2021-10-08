@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 
-.container{
-  width: 1170px;
-  margin: 0 auto;
+.container-fluid{
+  width: 100%;
+  margin: 20px 0;
 }
 
 .row{
