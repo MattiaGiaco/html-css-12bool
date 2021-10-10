@@ -1,0 +1,31 @@
+body{
+  background-color: darkseagreen;
+}
+
+.box{
+  padding: 23px;
+}
+
+.black{
+  background-color: #353a34;
+}
+
+.orange{
+  background-color: #f38c05;
+}
+
+.yellow{
+  background-color: #f3e305;
+}
+
+.gray{
+  background-color: #d5d6cf;
+}
+
+.red{
+  background-color: #e44b3b;
+}
+
+.white{
+  background-color: white;
+}
